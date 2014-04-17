@@ -1,16 +1,17 @@
 th, td      { vertical-align: top; text-align: right; font-size:large; }     /* Don't center table cells  */
-#converted  { color: yellow; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
+#converted  { color: yellow; font-weight: bold; font-size:25px;          }     /* Calculated values in bold */
 input       { 
               text-align: left;       /* Align input to the left  */
-              border: solid ; 
+              border: solid red ; 
               border-radius: 100px 100px 100px 100px;
               padding: 15px 15px;
-              font-size:large;       }
+              font-size:20px;     
+                  }
 body
 {
- background-color:green;  /* blue */
- font-size:large;
- font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+ background-color:green;  
+ font-size:20 px;
+ font-family: "Tahoma", "Tahoma Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 }
 
 h1 {
