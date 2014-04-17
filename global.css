@@ -1,5 +1,5 @@
-th, td      { vertical-align: top; text-align: right; font-size:large; }     /* Don't center table cells  */
-#converted  { color: yellow; font-weight: bold; font-size:25px;          }     /* Calculated values in bold */
+th, td      { vertical-align: top; text-align: left; font-size:large; }     /* Don't center table cells  */
+#converted  {font-family:Tahoma; color: yellow; font-weight: bold; font-size:25px;          }     /* Calculated values in bold */
 input       { 
               text-align: left;       /* Align input to the left  */
               border: solid red ; 
